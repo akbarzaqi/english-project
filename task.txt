@@ -32,8 +32,11 @@ tourist resting place. Apart from that, a mosque will also be built on the east 
  b : The main campus has various main facilities to support students. We have a library that is used by students to find references and also access various academic journals. there is also a laboratory building to support student learning
  a : That sounds amazing. What about recreational facilities? Are there sports or fitness centers available?
  b : Currently our campus does not provide these facilities. But on the main campus of Ahmad Dahlan University there are instagrammable photo spots
- a : "Fantastic! And what about housing options? Does the university offer on-campus accommodation?"
- b : 
- 
+ a : Fantastic! And what about housing options? Does the university offer on-campus accommodation?
+ b : Yes, the main campus of Ahmad Dahlan University provides dormitories for students. The rooms are well equipped, and there is a shared kitchen area, common room, Wi-Fi, and 24-hour security.
+ a : Very useful information. I believe it gives prospective students a good idea of ​​what to expect here. Thank you very much for sharing!
+ b : You're welcome. I am also happy to help you
+
+## pertemuan 3 ##
  
  
